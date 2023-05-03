@@ -1,0 +1,45 @@
+﻿school,accred,school_type,address,latitude,longitude,eng_acad_ach,math_acad_ach,sci_acad_ach,eng_ach_gap,math_ach_gap,chro_abs,dropout_rate,grad_rate,econ_disadv,disabilities,black,hispanic,white,eng_learners,grad_rate,dropout_rate
+Barack Obama Elementary,Accredited,Elementary,"3101 Fendall Ave Richmond, VA 23222-2699",37.57376,-77.43577,1,1,1,2,1,1,,,,,,,,,,
+Bellevue Elementary,Accredited with Conditions,Elementary,"2301 E Grace St Richmond, VA 23223-7151",37.53117,-77.4214,1,2,3,1,3,2,,,,,,,,,,
+Blackwell Elementary,Accredited with Conditions,Elementary,"1600 Everett St Richmond, VA 23224-3896",37.51555,-77.445,3,3,3,3,3,2,,,85.5,12.7,85.5,9.7,1.8,,,
+Broad Rock Elementary,Accredited,Elementary,"4615 Ferguson Ln Richmond, VA 23234-1999",37.47639,-77.47869,1,1,3,1,1,1,,,74.4,10.1,46.2,50,2.4,,,
+Cardinal Elementary,Accredited with Conditions,Elementary,"1745 Catalina Dr Richmond, VA 23224-4899",37.49033,-77.47651,1,1,3,1,2,1,,,53.8,5.5,13.2,84.2,1.6,,,
+Chimborazo Elementary,Accredited with Conditions,Elementary,"3000 E Marshall St Richmond, VA 23223-7499",37.53018,-77.41302,3,1,3,2,2,2,,,80.8,8.3,78.7,4.9,10.6,,,
+Elizabeth D. Redd Elementary,Accredited,Elementary,"5601 Jahnke Rd Richmond, VA 23225-2829",37.51549,-77.50301,1,1,2,1,1,1,,,74.7,11.5,56.6,34.2,6.1,,,
+Fairfield Court Elementary,Accredited,Elementary,"2510 Phaup St Richmond, VA 23223-4199",37.54958,-77.4007,2,1,3,2,1,3,,,96.4,10,91.6,5.6,0,,,
+G.H. Reid Elementary,Accredited with Conditions,Elementary,"1301 Whitehead Rd Richmond, VA 23225-7299",37.48922,-77.50738,1,1,3,2,1,1,,,69.2,7.4,36.3,61.1,1.6,,,
+George W. Carver Elementary,Accredited with Conditions,Elementary,"1110 W Leigh St Richmond, VA 23220-3199",37.55416,-77.44822,3,3,3,3,3,2,,,89.3,10.2,89.8,2.6,3.3,,,
+Ginter Park Elementary,Accredited with Conditions,Elementary,"3817 Chamberlayne Ave Richmond, VA 23227-4196",37.58755,-77.4474,1,1,3,2,2,1,,,88.6,16.9,88.6,3.4,3.4,,,
+Henry Marsh III Elementary,Accredited with Conditions,Elementary,"813 N 28th St Richmond, VA 23223-6699",37.53421,-77.41171,2,3,3,3,3,2,,,91.7,10.1,92.5,2.4,2.2,,,
+J.B. Fisher Elementary,Accredited,Elementary,"3701 Garden Rd Richmond, VA 23235-1299",37.54678,-77.5824,1,1,1,1,1,1,,,48.9,12.9,58.3,15.9,19.7,,,
+J.L. Francis Elementary,Accredited,Elementary,"5146 Snead Rd Richmond, VA 23224-6092",37.47651,-77.48925,1,1,2,2,1,2,,,72.6,9.4,38.8,54.5,4.9,44.8,,
+John B. Cary Elementary,Accredited,Elementary,"3021 Maplewood Ave Richmond, VA 23221-3587",37.54851,-77.48229,1,1,1,1,1,1,,,54,11.8,49.8,8.7,32.7,4.6,,
+Linwood Holton Elementary,Accredited,Elementary,"1600 W. Laburnum Ave Richmond, VA 23227",37.58514,-77.46122,1,1,1,1,3,1,,,32.9,13.3,38.1,2.6,52.8,0.9,,
+Mary Munford Elementary,Accredited,Elementary," 211 Westmoreland Street Richmond, VA 23226-1399",37.56383,-77.49958,1,1,1,1,1,1,,,12,12,8.5,5.8,76.2,3.7,,
+Miles Jones Elementary,Accredited with Conditions,Elementary,"200 Beaufont Hill Drive Richmond, VA 23225",37.50648,-77.51201,1,1,3,2,3,1,,,78.5,10.6,59.8,34.5,3.9,27.4,,
+Oak Grove/Bellemeade Elementary,Accredited with Conditions,Elementary,"2409 Webber Avenue Richmond, VA 23224-6710",37.49629,-77.44358,3,2,3,2,2,3,,,83.5,10.4,70.4,26.3,1.7,21.2,,
+Overby-Sheppard Elementary,Accredited with Conditions,Elementary,"2300 1st Ave Richmond, VA 23222-4699",37.56492,-77.42473,1,1,3,1,2,2,,,85.1,,,,,,,
+Patrick Henry School Of Science And Arts,Accredited,Elementary,"3411 Semmes Avenue Richmond, VA 23225-3425",37.51607,-77.46987,1,1,1,1,2,1,,,43.7,10.4,47.6,5.5,38.2,1,,
+Southampton Elementary,Accredited,Elementary,"3333 Cheverly Rd Richmond, VA 23225-1499",37.54341,-77.53353,2,1,2,2,2,2,,,63,10.9,71.3,12.3,8.1,7.6,,
+Swansboro Elementary,Accredited with Conditions,Elementary,"3160 Midlothian Tnpk Richmond, VA 23224-1926",37.5106,-77.46651,2,3,3,2,3,2,,,80.4,10.8,77.2,15.8,4.4,15.2,,
+Westover Hills Elementary,Accredited with Conditions,Elementary,"1211 Jahnke Rd Richmond, VA 23225-2918",37.52134,-77.49252,2,1,3,2,2,2,,,,,,,,,,
+William Fox Elementary,Accredited,Elementary,"2300 Hanover Ave Richmond, VA 23220-3497",37.55445,-77.46811,1,1,1,2,2,1,,,43.9,12.6,36.8,6.4,46.9,2.8,,
+Woodville Elementary,Accredited with Conditions,Elementary,"2000 N 28th St Richmond, VA 23223-4599",37.54586,-77.40137,3,3,3,2,3,3,,,95.1,15.4,93.6,1.5,1.5,0.7,,
+Albert Hill Middle,Accredited with Conditions,Middle,"3400 Patterson Ave Richmond, VA 23221-2399",37.56252,-77.48151,2,1,2,3,3,2,,,62.8,17.6,57,6.8,29.7,3.5,,
+Binford Middle,Accredited with Conditions,Middle,"1701 Floyd Ave Richmond, VA 23220-4623",37.54892,-77.46232,3,2,3,3,3,1,,,65.7,16.2,64.8,5.1,23.5,3.1,,
+Henderson Middle,Accredited with Conditions,Middle,"4319 Old Brook Rd Richmond, VA 23227-3896",37.59633,-77.44739,3,3,3,3,3,2,,,79.8,20,84.9,3.7,6.5,4.4,,
+Lucille M. Brown Middle,Accredited with Conditions,Middle,"6300 Jahnke Rd Richmond, VA 23225",37.5223,-77.51419,3,3,3,3,3,3,,,71.6,16.7,70.6,18.3,5.7,12.8,,
+Martin Luther King Jr. Middle,Accredited with Conditions,Middle,"1000 Mosby St Richmond, VA 23223-5099",37.54271,-77.42,3,3,3,3,3,3,,,93.8,22,90.6,2,2,1.8,,
+River City Middle,Accredited with Conditions,Middle,"6300 Hull Street Rd Richmond, VA 23224",37.48101,-77.50925,3,3,3,3,3,2,,,67.9,10.2,38.5,57.5,2,51.3,,
+Thomas C. Boushall Middle,Accredited with Conditions,Middle,"3400 Hopkins Rd Richmond, VA 23234-2404",37.47285,-77.46929,3,3,3,3,3,2,,,75,15.5,51.6,44,1.8,38.8,,
+Armstrong High,Accredited with Conditions,High,"2300 Cool Lane Richmond, VA 23223-4196",37.55241,-77.40312,2,3,3,3,3,3,2,3,85.4,27.3,90.2,4.2,3.1,1.6,75.7,16.58
+George Wythe High,Accredited with Conditions,High," 4314 Crutchfield St Richmond, VA 23225-4767",37.5104,-77.48305,3,3,3,3,3,3,3,3,60.1,14.8,41.7,54.4,2.4,41.4,54.8,43.81
+Huguenot High,Accredited with Conditions,High,"7945 Forest Hill Ave Richmond, VA 23225-1998",37.53057,-77.54223,2,1,3,3,2,3,2,1,62.8,12.6,53.4,38,6.3,27.1,80.6,15.96
+John Marshall High,Accredited with Conditions,High,"4225 Old Brook Rd Richmond, VA 23227-3898",37.5943,77.44512,1,1,3,2,2,1,1,1,72,21.5,79.5,4.7,12.7,2.3,91.6,4.92
+Open High,Accredited,High,"600 S Pine St Richmond, VA 23220-6501",37.53763,-77.45082,1,1,1,1,1,1,1,1,37,1.6,37,18.5,39.1,3.3,100,0
+Richmond Career Education and Employment Charter School,Accredited,High,"4314 Crutchfield Street Richmond, VA 23225",37.5104,-77.48305,1,1,1,,1,2,1,1,,,,,,,,
+Richmond Community High,Accredited,High,"201 E Brookland Park Boulevard Richmond, VA 23222-2722",37.56838,-77.43025,1,1,1,1,1,1,1,1,36.5,0.5,57.5,9.5,25.5,1.5,100,0
+Thomas Jefferson High,Accredited with Conditions,High,"4100 W Grace St Richmond, VA 23230-3802",37.5716,-77.48619,1,3,3,2,3,2,1,1,61.7,16.4,63.9,9.2,22.5,2.4,91.2,5.22
+Amelia Street Special Education,Accredited with Conditions,Combined K-12,"1821 Amelia St Richmond, VA 23220-6696",37.53864,-77.4701,3,3,,2,3,3,,,,,,,,,,
+Franklin Military Academy,Accredited,Combined 6-12,"701 North 37th Street Richmond, VA 23223",37.52874,-77.40388,1,1,1,1,2,1,1,1,62.1,4.4,60.4,24.6,11.9,13,100,0
+Richmond Alternative,Accredited with Conditions,Combined 6-12,"119 West Leigh Street, Richmond, VA 23220",37.54912,-77.44119,1,3,2,3,3,2,3,3,89.5,29.6,89.5,3.7,3.1,3.1,33.1,50.57
