@@ -17,15 +17,6 @@
 	<![endif]-->
 </head>
 
-<!--
-	And a few tips on building your CSS file:
-
-	- use :first-child, :last-child and :nth-child to get at non-classed elements
-	- use ::before and ::after to create pseudo-elements for extra styling
-	- use multiple background images to apply as many as you need to any element
-	- use the Kellum Method for image replacement, if still needed. http://goo.gl/GXxdI
-	- don't rely on the extra divs at the bottom. Use ::before and ::after instead.
-
 		
 -->
 
@@ -91,7 +82,7 @@
 		</div>
 
 		<div class="benefits" id="zen-benefits" role="article">
-			<h3 style="color:rgb(234,46,73); font-size:1.4em;">"Economically Disadvantaged" Students</h3>
+			<h3 style="color:rgb(203,76,78); font-size:1.4em;">"Economically Disadvantaged" Students</h3>
 			<p style="font-size: .9em">
 				As you can see in the plot to the left, there is a correlation between schools with high 
 				proportions of economically disadvantaged student and schools that are accredited with conditions. By mousing over
@@ -106,7 +97,7 @@
 		</div>
 
 		<div class="benefits" id="zen-benefits" role="article">
-			<h3 style="color:rgb(234,46,73); font-size:1.4em;">Is race a factor?</h3>
+			<h3 style="color:rgb(203,76,78); font-size:1.4em;">Is race a factor?</h3>
 			<p style="font-size: .9em">
 				Orfield asserts that, as a result of housing segregation, schools are often racially segregated [9]. 
 				Additionally, people of color are evicted at a disproportionately high rates as a result of discriminatory housing
@@ -124,16 +115,17 @@
 
 
 
-		<div class="explanation" id="zen-explanation" role="article" style="background-color: rgba(234,46,73,0.8); width: 85%;">
+		<div class="explanation" id="zen-explanation" role="article" style="background-color: rgba(203,76,78,0.8); width: 85%;">
 			<h3 style="çolor:white">Accreditation & Graduation Trends</h3>
 			<p style="color:white">  
 				Looking beyond simply accrediation, we can examine trends related to economic disadvantantage and graduation rates. As shown in the chart below, 
 				high proportions of economically disadvantaged students are associated with lower graduation rates and not schools accredited with conditions. 
 				<br><br>
-				Note that the schools shown that are fully accredited are alternative high schools - not schools that students are zoned to. Thus, all of the 
+				Note that the fully accredited high schools (Open High and Richmond Community) are alternative high schools - students are not zoned to these schools. All of the 
 				traditional high schools are accredited with conditions. Schools with higher percentages of economically disadvantaged students have lower graduation rates.
+				Relatedly, the high schools in zipcodes with higher eviction rates (shown by the size of the bubble in the visualization below) have lower graduation rates. 
 				<br><br>
-				Additionally, George Wythe and Huguenot High Schools are both in zipcodes with an eviction rate of 42% and have low graduation rates (81% and 55%, respectively).
+				George Wythe and Huguenot High Schools are both in zipcodes with an eviction rate of 42% and have low graduation rates (81% and 55%, respectively).
 				Residential instability, including the frequent moves and at-home chaos caused by eviction, has been studied and linked to 
 				worse educational achievement outcomes, including lower graduation rates [10]. 
 				<br><br>
@@ -150,15 +142,16 @@
 				Just three of several of these indicators are Math Achievement Gap, English Achievement Gap, and Chronic Absenteeism. Other indicators
 				measure Academic Achievement, which is linked to the Achievement Gap measures. 
 				<br><br>In the visualization below, trends of accredited conditions 
-				schools are revealed - and we see why some of them fail to be accredited from the three highlighted indicators. 
+				schools are revealed - and we see why some of them fail to be accredited - any school that is given the Level Three rating will not be fully accredited. 
+				<br><br>
 			</p>
-			<iframe  allowtransparency="true" style="background: #FFFFFF;" src="school_cat.html" width=1100 height="700" frameBorder="0"></iframe>
+			<iframe  allowtransparency="true" style="background: #FFFFFF;" src="school_cat.html" width=1100 height="750" frameBorder="0"></iframe>
 		</div>
 		
 		<div class="extensions" id="zen-requirements" role="article" style="background:rgba(32,42,68,0.8); padding:5%;">
 			<h3 style="color: white">Extensions</h3>
 			<p style="color: white">This has been just a short exploration of eviction in Richmond City zipcodes and Richmond Public Schools accreditation 
-										and demogrpahic data. Including data from more years would be beneficial in understanding overall eviction and education trends.
+										and demographic data. Including data from more years would be beneficial in understanding overall eviction and education trends.
 										<br><br>
 										Visualizing eviction trends and achievement gap level trends with line charts would be effective in visualizing temporal data. 
 										Additionally, combining eviction and school quality data and visualizing links between eviction rates in a school zone and 
@@ -168,9 +161,9 @@
 										Redlining was the practice of grading neighborhoods A, B, C, or D according to neighborhood quality (which often stood in for race) 
 										to mark which neighborhoods would be eligible to receive federal loans for homeownership [6].
 										Hence, redlining is particularly relevant in the current state of neighborhoods and eviction rates as it decided to whom home 
-										ownership and opportunity was accessible.</p>
-		
-			<p style = "color:white">To combine eviction and education data for this analysis, I associated the eviction rate of the zipcode in which the school is located
+										ownership and opportunity was accessible.
+										<br><br>
+										To combine eviction and education data for this exploration, I associated the eviction rate of the zipcode in which the school is located
 										with the school. However, because school zoning is often somewhat erratic, in part to hoard opportunities for privileged students, the immediate
 										surrounding area of the school is not necessarily that in which the school's students reside [7]. Thus, a more effective analysis would link
 										the eviction rates in a school's zone with that school to examine the relationship between eviction rate and educational outcomes indicators.</p>
@@ -180,9 +173,25 @@
 		<div class="requirements" id="zen-requirements" role="article">
 			<h3>Conclusion</h3>
 			<p>
-			 
+			 No conclusions of causation will be drawn from this exploration of eviction and education data, but there are several striking realizations to recognize.
+			 <br><br>
+			 Relatively few Richmond City public schools meet Virginia state standards for full accreditation. There are more schools accredited with conditions than fully accredited schools.
+			 There are no fully accredited middle schools in Richmond. Each of the seven middle schools is performing below the state standard
+			 for at least one standard. None of the traditional high schools, to which City students are zoned, are fully accredited.
+			 <br><br>
+			 What does this mean for Richmond public school students? Do their public school educations set them up for success? Likely not, if
+			 their schools don't meet state standards. Schools with a high proportion of economically disadvantaged students tend to be accredited with conditions.
+			 In the U.S., there is a longheld belief that if you work hard you can get ahead. But if the schools accessible to students are lacking, how does that set them up to "get ahead"?
+			 <br><br>
+			 Similarly, the housing market is not an equal opportunity playing field. Historic discrimination continues to impact housing opportunities and evictions today.
+			 The negative impact of residential mobility - or families who move a lot - on educational outcomes is well documented [10]. 
+			 Given the trends of school accreditation and eviction rate seen in this exploration, it seems that high rates of eviction are somehow associated with worse educational outcomes.
+			 <br><br>
+			 It is clear that work must be put into Richmond schools to improve educational outcomes and maintain full accreditation. 
+			 We must find solutions to lower eviction rates in Richmond - 42%, the evicton rate for the 23225 zipcode, is almost 40% higher than the national average, which hovers around 2.5%. 
+			 Eviction doesn't just impact the housing market and individuals' lives - it has an impact on the future: children's education drives their future outcomes.
+			 Since housing instability negatively impacts those futures, working to decrease eviction rates would pay off in the longterm for the Richmond community.
 			</p>
-			<iframe  allowtransparency="true" style="background: #FFFFFF;" src="school_cat.html" width=1100 height="700" frameBorder="0"></iframe>
 		</div>
 							
 		<div class="extensions" id="zen-requirements" role="article" style="background:rgba(32,42,68,0.8); padding:5%;">
@@ -203,7 +212,7 @@
 				<br> [10] Ersing, Robin L., Richard Sutphen, and Diane Nicole Loeffler. 2009. “Exploring the Impact and 
 				Implications of  Residential Mobility: From the Neighborhood to the School.” Advances
 				 in Social Work 10 (1): 1–18.
-				
+				<br> [11] "National Estimates: Eviction in America." Eviction Lab, Princeton University. <a style="color:white" href = https://evictionlab.org/national-estimates/>https://evictionlab.org/national-estimates/</a>
 			</a>
 				
 			</p>
@@ -217,7 +226,7 @@
 	<aside class="sidebar" role="complementary">
 		<div class="wrapper">
 
-			<div class="design-selection" id="design-selection" style="color:rgba(234,46,73,0.8)">
+			<div class="design-selection" id="design-selection" style="color:rgba(203,76,78,1)">
 				<h3 class="select" style="font-weight:600; color:white;" >See the data:</h3>
 				<nav role="navigation">
 					<ul>
